@@ -1,4 +1,5 @@
 import "./Skills.css";
+import { FaReact } from "react-icons/fa";
 
 const Skills = () => {
   return (
@@ -12,6 +13,7 @@ const Skills = () => {
         
         
         <span className='devicons devicons-react' title='React'></span>
+        <FaReact className='reacticon' />
         {/* react excaped html character            &#xe6ba              */}
         {/* <ion-icon className='reacticon' name="logo-react"></ion-icon> */}
         <span className='devicons devicons-mongodb' title='Mongo'></span>
