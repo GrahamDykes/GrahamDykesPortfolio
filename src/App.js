@@ -1,11 +1,13 @@
-import './App.css';
-
+import "./App.css";
+import Header from "./components/Header";
+import AboutMe from "./components/AboutMe";
+import Contact from "./components/Contact";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>This is in your header</p>
-      </header>
+      <Header />
+      <Contact />
+      <AboutMe />
     </div>
   );
 }
