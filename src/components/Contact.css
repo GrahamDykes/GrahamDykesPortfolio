@@ -1,0 +1,21 @@
+.contacticon{
+    color:red;
+    margin-left: 40px;
+}
+.contacticon:hover{
+    color:yellow;
+    transform: scale(1.5);
+}
+a{
+    margin-left: 40px;
+    color:grey;
+}
+a:hover{
+    color:yellow;
+    transform: scale(1.5);
+
+}
+div{
+    font-size: xx-large;
+    text-align: center;
+}

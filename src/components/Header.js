@@ -10,7 +10,7 @@ const Header = () => {
       <p>
         <em>[</em>rypti<em>[ </em> <em> [</em>reations
       </p>
-    <img src={hero} alt="Hero Img" className='heroimage' />;
+    <img src={hero} alt="Hero Img" className='heroimage' />
     </header>
   );
 };
