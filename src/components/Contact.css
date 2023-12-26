@@ -1,5 +1,8 @@
 .contact{
     margin-top:40px;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
 }
 .contacticon{
     color:red;
@@ -21,4 +24,9 @@ a:hover{
 div{
     font-size: xx-large;
     text-align: center;
+}
+
+.contactform{
+border:solid grey 4px;
+width:30%;
 }
