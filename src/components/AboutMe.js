@@ -6,7 +6,7 @@ const AboutMe = () => {
     <p>I fancy myself a modern Renaissance man.</p>
     <p>Professionally I am a capable full-stack developer,</p>
     <p>capable of grasping an entire project and it's purpose</p>
-    <p>then turing those ideas into a reality. On the side</p>
+    <p>then turning those ideas into a reality. On the side</p>
     <p>I dabble in other computer science arts, and the creation</p>
     <p>of a litany of clever devices and gadgets. If you have a</p>
     <p>few hours to burn, ask me aboutthe impact that 3D printing</p>
