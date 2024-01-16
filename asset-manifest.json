@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GrahamDykesPortfolio/static/css/main.611058aa.css",
+    "main.js": "/GrahamDykesPortfolio/static/js/main.8b2d81c4.js",
+    "static/media/heroimg.jpg": "/GrahamDykesPortfolio/static/media/heroimg.cdb3b049939d55a9e950.jpg",
+    "index.html": "/GrahamDykesPortfolio/index.html",
+    "main.611058aa.css.map": "/GrahamDykesPortfolio/static/css/main.611058aa.css.map",
+    "main.8b2d81c4.js.map": "/GrahamDykesPortfolio/static/js/main.8b2d81c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.611058aa.css",
+    "static/js/main.8b2d81c4.js"
+  ]
+}
