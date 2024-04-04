@@ -7,6 +7,8 @@ const Skills = () => {
       <div className="hireme">
         Hire me! We will produce awesome projects, and have fun doing it
       </div>
+<br></br>
+<br></br>
 
       <div className="skillsmain">Skills:
       <div className='skillscointainer'>
@@ -25,6 +27,28 @@ const Skills = () => {
         <span className='devicons devicons-css3' title='CSS'></span>
         
       </div>
+      <br></br>
+      <br></br>
+      <br></br>
+      <div>
+        <h4>Written Out:</h4>
+        <br></br>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Javascript</li>
+          <li>SASS</li>
+          <li>Bootstrap</li>
+          <li>React</li>
+          <li>Redux</li>
+          <li>Github</li>
+          <li>MongoDB</li>
+          <li>Node</li>
+          <li>Express</li>
+        </ul>
+      </div>
+      <br></br>
+      <br></br>
       </div>
     </>
   );
