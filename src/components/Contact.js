@@ -28,12 +28,12 @@ const Contact = () => {
    <div style={{display:'flex', justifyContent:'center', alignItems:'center', flexDirection:'column',}}>
     <form ref={form} onSubmit={sendEmail } style={{display:'flex', justifyContent:'center', alignItems:'center', flexDirection:'column',}} className='contactform'>
       <label>Name</label>
-      <input type="text" name="user_name" />
+      <input type="text" className="greenBorder" name="user_name" />
       <label>Email</label>
-      <input type="email" name="user_email" />
+      <input type="email" name="user_email" className="greenBorder"/>
       <label>Message</label>
-      <textarea name="message" style={{width:'30%', height:'100px'}}/>
-      <input type="submit" value="Send" />
+      <textarea name="message" style={{width:'30%', height:'100px'}} className="greenBorder"/>
+      <input type="submit" value="Send" className="marginToppy"/>
     </form>
     </div>
    </>
